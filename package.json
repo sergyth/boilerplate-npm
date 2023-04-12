@@ -1,17 +1,21 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author":"sergyth",
-	"description":"my project does nothing",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
-
+  "name": "fcc-learn-npm-package-json",
+  "author": "sergyth",
+  "description": "my project does nothing",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergyth/boilerplate-npm"
+  }
 }
